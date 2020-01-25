@@ -1,0 +1,72 @@
+xencrypt (3)         - RFS password encryption
+xdecrypt (3)         - RFS password encryption
+xcrypt (3)           - RFS password encryption
+vipw (8)             - edit the password, group, shadow-password or shadow-gr...
+vigr (8)             - edit the password, group, shadow-password or shadow-gr...
+update-passwd (8)    - Actualiza /etc/passwd, /etc/shadow y /etc/group de for...
+unix_update (8)      - Helper binary that updates the password of a given user
+unix_chkpwd (8)      - Helper binary that verifies the password of the curren...
+ulckpwdf (3)         - get shadow password file entry
+systemd-tty-ask-password-agent (1) - List or process pending systemd password...
+systemd-ask-password-wall.service (8) - Query the user for system passwords o...
+systemd-ask-password-wall.path (8) - Query the user for system passwords on t...
+systemd-ask-password-console.service (8) - Query the user for system password...
+systemd-ask-password-console.path (8) - Query the user for system passwords o...
+systemd-ask-password (1) - Query the user for a system password
+shadowconfig (8)     - toggle shadow passwords on and off
+shadow (5)           - shadowed password file
+sgetspent_r (3)      - get shadow password file entry
+sgetspent (3)        - get shadow password file entry
+setspent (3)         - get shadow password file entry
+setpwent (3)         - get password file entry
+seahorse (1)         - Passwords and Keys
+pwunconv (8)         - convert to and from shadow passwords and groups
+pwconv (8)           - convert to and from shadow passwords and groups
+pwck (8)             - verify integrity of password files
+putspent (3)         - get shadow password file entry
+putpwent (3)         - write a password file entry
+passwd (5)           - the password file
+passwd2des (3)       - RFS password encryption
+passwd (1ssl)        - compute password hashes
+passwd (1)           - change user password
+pam_unix (8)         - Module for traditional password authentication
+pam_pwhistory (8)    - PAM module to remember last passwords
+pam_localuser (8)    - require users to be listed in /etc/passwd
+openssl-passwd (1ssl) - compute password hashes
+login.defs (5)       - shadow password suite configuration
+lckpwdf (3)          - get shadow password file entry
+grub-mkpasswd-pbkdf2 (1) - generate hashed password for GRUB
+grpunconv (8)        - convert to and from shadow passwords and groups
+grpconv (8)          - convert to and from shadow passwords and groups
+gpasswd (1)          - administer /etc/group and /etc/gshadow
+gitcredentials (7)   - providing usernames and passwords to Git
+git-credential-cache (1) - Helper to temporarily store passwords in memory
+getspnam_r (3)       - get shadow password file entry
+getspnam (3)         - get shadow password file entry
+getspent_r (3)       - get shadow password file entry
+getspent (3)         - get shadow password file entry
+getpwuid_r (3)       - get password file entry
+getpwuid (3)         - get password file entry
+getpwnam_r (3)       - get password file entry
+getpwnam (3)         - get password file entry
+getpwent_r (3)       - get passwd file entry reentrantly
+getpwent (3)         - get password file entry
+getpw (3)            - reconstruct password line entry
+getpass (3)          - get a password
+fgetspent_r (3)      - get shadow password file entry
+fgetspent (3)        - get shadow password file entry
+fgetpwent_r (3)      - get passwd file entry reentrantly
+fgetpwent (3)        - get password file entry
+expiry (1)           - check and enforce password expiration policy
+endspent (3)         - get shadow password file entry
+endpwent (3)         - get password file entry
+crypt_r (3)          - password and data encryption
+crypt (3)            - password and data encryption
+create-cracklib-dict (8) - Check passwords using libcrack2
+cracklib-check (8)   - Check passwords using libcrack2
+cppw (8)             - copy with locking the given file to the password or gr...
+cpgr (8)             - copy with locking the given file to the password or gr...
+chpasswd (8)         - update passwords in batch mode
+chgpasswd (8)        - update group passwords in batch mode
+chage (1)            - change user password expiry information
+apg (1)              - generates several random passwords

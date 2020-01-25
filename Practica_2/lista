@@ -1,0 +1,80 @@
+update-passwd (8)    - Actualiza /etc/passwd, /etc/shadow y /etc/group de for...
+chgpasswd (8)        - update group passwords in batch mode
+chpasswd (8)         - update passwords in batch mode
+fgetpwent_r (3)      - get passwd file entry reentrantly
+getpwent_r (3)       - get passwd file entry reentrantly
+gpasswd (1)          - administer /etc/group and /etc/gshadow
+grub-mkpasswd-pbkdf2 (1) - generate hashed password for GRUB
+openssl-passwd (1ssl) - compute password hashes
+pam_localuser (8)    - require users to be listed in /etc/passwd
+passwd (1)           - change user password
+passwd (1ssl)        - compute password hashes
+passwd (5)           - the password file
+passwd2des (3)       - RFS password encryption
+apg (1)              - generates several random passwords
+chage (1)            - change user password expiry information
+chgpasswd (8)        - update group passwords in batch mode
+chpasswd (8)         - update passwords in batch mode
+cpgr (8)             - copy with locking the given file to the password or gr...
+cppw (8)             - copy with locking the given file to the password or gr...
+cracklib-check (8)   - Check passwords using libcrack2
+create-cracklib-dict (8) - Check passwords using libcrack2
+crypt (3)            - password and data encryption
+crypt_r (3)          - password and data encryption
+endpwent (3)         - get password file entry
+endspent (3)         - get shadow password file entry
+expiry (1)           - check and enforce password expiration policy
+fgetpwent (3)        - get password file entry
+fgetspent (3)        - get shadow password file entry
+fgetspent_r (3)      - get shadow password file entry
+getpass (3)          - get a password
+getpw (3)            - reconstruct password line entry
+getpwent (3)         - get password file entry
+getpwnam (3)         - get password file entry
+getpwnam_r (3)       - get password file entry
+getpwuid (3)         - get password file entry
+getpwuid_r (3)       - get password file entry
+getspent (3)         - get shadow password file entry
+getspent_r (3)       - get shadow password file entry
+getspnam (3)         - get shadow password file entry
+getspnam_r (3)       - get shadow password file entry
+git-credential-cache (1) - Helper to temporarily store passwords in memory
+gitcredentials (7)   - providing usernames and passwords to Git
+grpconv (8)          - convert to and from shadow passwords and groups
+grpunconv (8)        - convert to and from shadow passwords and groups
+grub-mkpasswd-pbkdf2 (1) - generate hashed password for GRUB
+lckpwdf (3)          - get shadow password file entry
+login.defs (5)       - shadow password suite configuration
+openssl-passwd (1ssl) - compute password hashes
+pam_pwhistory (8)    - PAM module to remember last passwords
+pam_unix (8)         - Module for traditional password authentication
+passwd (1)           - change user password
+passwd (1ssl)        - compute password hashes
+passwd (5)           - the password file
+passwd2des (3)       - RFS password encryption
+putpwent (3)         - write a password file entry
+putspent (3)         - get shadow password file entry
+pwck (8)             - verify integrity of password files
+pwconv (8)           - convert to and from shadow passwords and groups
+pwunconv (8)         - convert to and from shadow passwords and groups
+seahorse (1)         - Passwords and Keys
+setpwent (3)         - get password file entry
+setspent (3)         - get shadow password file entry
+sgetspent (3)        - get shadow password file entry
+sgetspent_r (3)      - get shadow password file entry
+shadow (5)           - shadowed password file
+shadowconfig (8)     - toggle shadow passwords on and off
+systemd-ask-password (1) - Query the user for a system password
+systemd-ask-password-console.path (8) - Query the user for system passwords o...
+systemd-ask-password-console.service (8) - Query the user for system password...
+systemd-ask-password-wall.path (8) - Query the user for system passwords on t...
+systemd-ask-password-wall.service (8) - Query the user for system passwords o...
+systemd-tty-ask-password-agent (1) - List or process pending systemd password...
+ulckpwdf (3)         - get shadow password file entry
+unix_chkpwd (8)      - Helper binary that verifies the password of the curren...
+unix_update (8)      - Helper binary that updates the password of a given user
+vigr (8)             - edit the password, group, shadow-password or shadow-gr...
+vipw (8)             - edit the password, group, shadow-password or shadow-gr...
+xcrypt (3)           - RFS password encryption
+xdecrypt (3)         - RFS password encryption
+xencrypt (3)         - RFS password encryption
