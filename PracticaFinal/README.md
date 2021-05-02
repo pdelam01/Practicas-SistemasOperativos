@@ -11,3 +11,7 @@ Práctica desarrollada por:
   - de la Hera Martínez, Pablo 
   
   - Pérez García, Adrián 
+
+# Instrucciones
+
+El objetivo de la práctica es realizar un programa que simule una aplicación social para la convocatoria de reuniones democrático-culturales pacíficas en León. A dicha aplicación se accedera por invitación o lectua de un QR ytiene que ser aprobado por alguno de los miembros seniors de la organización(threads). 
