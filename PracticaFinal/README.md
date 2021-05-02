@@ -4,10 +4,10 @@ Repositorio con la totalidad del codigo de la practica final de la asignatura de
 
 Práctica desarrollada por:
 
-  Barrio Navarro, Pablo Javier
+  - Barrio Navarro, Pablo Javier
   
-  Fernández Velasco, Diego (Coordinador de la práctica)
+  - Fernández Velasco, Diego (Coordinador de la práctica)
   
-  de la Hera Martínez, Pablo 
+  - de la Hera Martínez, Pablo 
   
-  Pérez García, Adrián 
+  - Pérez García, Adrián 
